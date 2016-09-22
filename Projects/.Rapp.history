@@ -1,0 +1,4 @@
+n <- rep(61,7)
+n
+group <- rep(1:7,n)
+group
